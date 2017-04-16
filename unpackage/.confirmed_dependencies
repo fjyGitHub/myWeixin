@@ -1,0 +1,122 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"indexPage.html",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/iconfont.css",
+			"css/mui.min.css",
+			"fonts/iconfont.ttf"
+		],
+		"refer": [
+			"find.html",
+			"indexPage.html",
+			"mailList.html",
+			"myInfo.html"
+		]
+	},
+	"find.html": {
+		"resources": [
+			"img/plp.png",
+			"img/yyy.png",
+			"img/game.png",
+			"img/py.png",
+			"img/shop.png",
+			"img/per.png",
+			"img/sys.png",
+			"fonts/mui.ttf"
+		],
+		"refer": [
+			"shake.html"
+		]
+	},
+	"indexPage.html": {
+		"resources": [
+			"img/7.jpg",
+			"img/2.jpg",
+			"js/jquery.min.js",
+			"img/1.jpg",
+			"img/6.jpg",
+			"img/4.jpg",
+			"js/mui.js",
+			"css/mui.css",
+			"img/3.jpg",
+			"img/5.jpg",
+			"css/index.css",
+			"fonts/mui.ttf"
+		],
+		"refer": [
+			"subCharts.html",
+			"barcode.html"
+		]
+	},
+	"mailList.html": {
+		"resources": [
+			"img/8.jpg",
+			"img/icon2.jpg",
+			"img/9.jpg",
+			"img/icon3.jpg",
+			"img/icon4.jpg",
+			"img/10.jpg",
+			"img/icon1.jpg",
+			"js/mui.min.js",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"subCharts.html"
+		]
+	},
+	"myInfo.html": {
+		"resources": [
+			"img/face.png",
+			"img/set.png",
+			"img/box.png",
+			"img/bag.png",
+			"img/photo.png",
+			"img/money.png"
+		],
+		"refer": [
+			"set.html"
+		]
+	},
+	"subCharts.html": {
+		"resources": [
+			"css/index.css",
+			"fonts/mui.ttf",
+			"js/mui.js",
+			"css/mui.css",
+			"js/jquery.min.js"
+		]
+	},
+	"shake.html": {
+		"resources": [
+			"img/shakedown.png",
+			"img/shakeup.png",
+			"js/mui.min.js",
+			"img/1.jpg",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"set.html": {
+		"resources": [
+			"css/index.css",
+			"js/jquery.min.js",
+			"fonts/mui.ttf",
+			"js/mui.js",
+			"css/mui.css"
+		],
+		"refer": [
+			"notice.html"
+		]
+	},
+	"notice.html": {
+		"resources": [
+			"css/index.css",
+			"fonts/mui.ttf",
+			"js/mui.js",
+			"css/mui.css"
+		]
+	}
+}
